@@ -28,7 +28,6 @@ Relive the **USBAdvance** days, where 'plug-and-play' often felt more like 'plug
 
 ## ✨ Features
 
-* Minimalist navigation bars
 * A renewed version of a well-known classic
 * A trip to the past but with the advantages of the most modern technology
 * Working with HD/Full-HD on 16:9 and 4:3
