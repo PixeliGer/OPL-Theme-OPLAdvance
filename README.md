@@ -53,13 +53,24 @@ Relive the **USBAdvance** days, where 'plug-and-play' often felt more like 'plug
 
 ## 📸 Screenshots
 
+##### Games List
 <p align="middle">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot1.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot2.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot3.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot5.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot7.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot9.png"> 
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot11.png"> 
+</p>
+
+##### 🌟NEW🌟 Info Screen
+<p align="middle">  
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot2.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot4.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot5.png"> 
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot6.png"> 
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot6.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot8.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot10.png"> 
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot12.png"> 
 </p>
 
 
@@ -133,5 +144,5 @@ hdd0:/+OPL/THM/thm_OPLAdvance/
 To enhance your experience with the theme, consider these recommendations:
 
 * Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest)
-* Download the assets for the `ART` folder (Background Image, Cover, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
+* Download the assets for the `ART` folder (Background Image, Cover, Screenshots, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
 * Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the game information.
