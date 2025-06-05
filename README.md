@@ -8,16 +8,17 @@
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
   [![][made-with]][gimp]
+  ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&logoSize=auto&label=Made%20For)
   [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-OPLAdvance/total?style=for-the-badge)]()
   
   [gimp]: https://www.gimp.org/
   [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
   
   
-  [![][download-pixel-prime]][pixel-prime]
-  
-  [pixel-prime]: https://github.com/PixeliGer/OPL-Theme-OPLAdvance/releases/latest
-  [download-pixel-prime]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
+  [![][download-opl-theme]][opl-theme]
+
+  [opl-theme]: https://github.com/PixeliGer/OPL-Theme-OPLAdvance/releases/latest
+  [download-opl-theme]: https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white
   
 </div>
 
