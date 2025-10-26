@@ -40,8 +40,8 @@ Relive the **USBAdvance** days, where 'plug-and-play' often felt more like 'plug
 ## 🌱 Inspiration
 
 <p align="middle">
-  <img width="48%" src="https://archive.org/download/USBADVN/gs_20211110225219.png">
-  <img width="48%" src="https://www.psx-core.ru/_ld/0/68750.jpg">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/inspiration/reference_1.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/inspiration/reference_2.png">
 </p>
 
 ## ✨ Features
