@@ -4,7 +4,7 @@
   <img src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/logo.png">
 </p>
 
-<div align = center>
+<div align="center">
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
   [![Made With GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&label=Made%20With)](https://www.gimp.org/)
@@ -15,7 +15,7 @@
 
 </div>
 
-Relive the **USBAdvance** days, where 'plug-and-play' often felt more like 'plug-and-pray.' This theme pays homage to the classic USBAdvance while reimagining it for the modern era—seamlessly blending nostalgia with the evolution of USB game loading on the PS2.
+This Open PS2 Loader theme pays homage to the classic **USBAdvance** while reimagining it for the modern era—seamlessly blending nostalgia with the evolution of USB game loading on the PS2.
 
 <div align = middle>
   <br>
@@ -45,7 +45,7 @@ Relive the **USBAdvance** days, where 'plug-and-play' often felt more like 'plug
 
 ## 📸 Screenshots
 
-##### Games List
+#### Games List
 
 <p align="middle">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_1.png">
@@ -56,7 +56,7 @@ Relive the **USBAdvance** days, where 'plug-and-play' often felt more like 'plug
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_11.png"> 
 </p>
 
-##### 🌟NEW🌟 Info Screen
+#### 🌟NEW🌟 Info Screen
 
 <p align="middle">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_2.png">
@@ -97,7 +97,7 @@ THM/
 ```
 
 > [!NOTE]  
-> Themes must be placed inside a folder named `THM` (in uppercase) for any of the devices: SMB share, HDD, USB, SD (MX4SIO), once the device starts, OPL will list the themes found in these locations
+> Themes must be placed inside a folder named `THM` (in uppercase) for any of the devices: SMB share, HDD, USB, SD (MX4SIO, MMCE), once the device starts, OPL will list the themes found in these locations
 
 - **SMB** (Network Share)
 
