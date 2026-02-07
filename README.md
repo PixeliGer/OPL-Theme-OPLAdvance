@@ -1,7 +1,7 @@
 # OPLAdvance Theme
 
 <p align="center">
-  <img src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/logo.png">
+  <img width="320" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/logo.png">
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 This Open PS2 Loader theme pays homage to the classic **USBAdvance** while reimagining it for the modern era—seamlessly blending nostalgia with the evolution of USB game loading on the PS2.
 
-<div align = middle>
+<div align="center">
   <br>
   
   &ensp;[<kbd> <br> Installation <br> </kbd>](#-installation)&ensp;
@@ -31,23 +31,28 @@ This Open PS2 Loader theme pays homage to the classic **USBAdvance** while reima
 
 ## 🌱 Inspiration
 
-<p align="middle">
+<p align="center">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/inspiration/reference_1.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/inspiration/reference_2.png">
 </p>
 
 ## ✨ Features
 
-- A renewed version of a well-known classic
-- A trip to the past but with the advantages of the most modern technology
-- Working with HD/Full-HD on 16:9 and 4:3
-- Compatible with the latest versions of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
+* 🎨 **Retro-Modern Design** - Nostalgic USBAdvance aesthetics with contemporary refinements
+* 🔄 **Classic Reimagined** - Faithful to the original while leveraging modern technology advantages
+* 📺 **Resolution Support** - Optimized for HD/Full-HD on both 16:9 and 4:3 aspect ratios
+* ✅ **OPL 1.2+ Compatible** - Supports multiple OPL variants:
+    - [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
+    - [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)
+    - [OPL MMCE (rickgaiser)](https://github.com/rickgaiser/Open-PS2-Loader)
+* 📋 **Game Information Display** - Info screen showcasing game details and artwork
+* 🧭 **Enhanced Navigation** - Intuitive interface combining classic appeal with modern usability
 
 ## 📸 Screenshots
 
 #### Games List
 
-<p align="middle">  
+<p align="center">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_1.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_3.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_5.png">
@@ -58,7 +63,7 @@ This Open PS2 Loader theme pays homage to the classic **USBAdvance** while reima
 
 #### 🌟NEW🌟 Info Screen
 
-<p align="middle">  
+<p align="center">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_2.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_4.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_6.png">
@@ -131,7 +136,13 @@ hdd0:/+OPL/THM/thm_OPLAdvance/
 
 **4. Launch OPL, if it was already open, restart it.**
 
-**5. Go to `OPL Settings` and then `Display Settings`. In the `Theme` option, find and select your theme, then click `OK` to apply it.**
+**5. Apply the Theme:** 
+  - Press <kbd>Start</kbd> to open `OPL Settings`
+  - Navigate to `Display Settings`
+  - Select the `Theme` option
+  - Using the <kbd>Up</kbd> and <kbd>Down</kbd> buttons on the D-Pad, find and select the `OPLAdvance` theme from the list
+  - Press on `OK` to apply the Theme
+  - The theme will load immediately and take effect
 
 ## 💡 Recommendations
 
@@ -140,3 +151,7 @@ To enhance your experience with the theme, consider these recommendations:
 - Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest)
 - Download the assets for the `ART` folder (Background Image, Cover, Screenshots, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
 - Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the game information.
+
+---
+
+**Made with ❤️ for the PS2 Community**
