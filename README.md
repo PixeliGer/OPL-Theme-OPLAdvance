@@ -41,6 +41,7 @@ This Open PS2 Loader theme pays homage to the classic **USBAdvance** while reima
 * 🎨 **Retro-Modern Design** - Nostalgic USBAdvance aesthetics with contemporary refinements
 * 🔄 **Classic Reimagined** - Faithful to the original while leveraging modern technology advantages
 * 📺 **Resolution Support** - Optimized for HD/Full-HD on both 16:9 and 4:3 aspect ratios
+* 📦 Device Support - Separate sections for MMCE, MX4SIO, USB, Apps, POPS, etc.
 * ✅ **OPL 1.2+ Compatible** - Supports multiple OPL variants:
     - [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
     - [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)
@@ -61,7 +62,7 @@ This Open PS2 Loader theme pays homage to the classic **USBAdvance** while reima
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_11.png"> 
 </p>
 
-#### 🌟NEW🌟 Info Screen
+#### Info Screen
 
 <p align="center">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_2.png">
@@ -71,6 +72,14 @@ This Open PS2 Loader theme pays homage to the classic **USBAdvance** while reima
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_10.png"> 
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_12.png"> 
 </p>
+
+#### 🌟NEW🌟Apps Section
+
+<p align="center">  
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_13.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-OPLAdvance/blob/main/assets/screenshots/screenshot_14.png">
+</p>
+
 
 ## 💾 Installation
 
@@ -143,6 +152,36 @@ hdd0:/+OPL/THM/thm_OPLAdvance/
   - Using the <kbd>Up</kbd> and <kbd>Down</kbd> buttons on the D-Pad, find and select the `OPLAdvance` theme from the list
   - Press on `OK` to apply the Theme
   - The theme will load immediately and take effect
+
+## ⚙️ Additional Setup
+> [!IMPORTANT]
+> These additional settings are recommended for better visualization of the `Game ID` and `Title` (on the Info Screen) for the `APPS` section.
+
+**1. On your device, within the `APPS` directory, find your game folder, and locate the `title.cfg` file inside. 
+(*This file can be created beforehand using applications such as* [POPS VCD Manager](https://www.psx-place.com/resources/pops-vcd-manager.1284/))**
+
+```
+Example:
+
+mass:/APPS/POPS_Metal Slug X/title.cfg
+
+or
+
+APPS/
+├─ POPS_Metal Slug X/
+│  ├─ title.cfg
+
+```
+
+**2. Inside the `title.cfg` file, add the following lines.**
+
+```ini
+...
+Title=Metal Slug X  #Replace for the corresponding Game Title (same as the existing 'title' property)
+GameID=SLPM_864.56  #Replace for the corresponding Game ID
+...
+```
+
 
 ## 💡 Recommendations
 
